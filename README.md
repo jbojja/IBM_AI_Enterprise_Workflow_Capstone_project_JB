@@ -12,7 +12,7 @@ Please refer to "Part2_Modeldevelopment_Approaches" document to refer to the ana
 
 Part 3
 ======
-To run the scripts and predict using API easier please refer to "Capstone_Project_Scripts_guide.ipynb" to directly execute the test scripts and predict.
+To run the scripts and predict using API easier please refer to "Capstone_Project_Scripts_guide.ipynb" to directly execute the model comparision,monitoring tools,test scripts and predict.
 
 
 
